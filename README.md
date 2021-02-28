@@ -1,6 +1,6 @@
 # TweetQuoteGenerator
 This is a Responsive Web Based Application using HTML, CSS and JavaScript.
-A user can select a quote from randomly generated quotes and tweet that quote to thier twitter account
+A user can select a quote from randomly generated quotes and tweet that quote to thier Twitter account.
 In this project Twitter API is used, a free API to generate quotes is used, and a proxy server is used to remove CORS error.
 To access the live site :
 Go to : https://cors-anywhere.herokuapp.com/corsdemo
